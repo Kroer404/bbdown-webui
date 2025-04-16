@@ -77,7 +77,7 @@ class BBDownMyOption {
   UserAgent?: string | null = null
   Cookie?: string | null = null
   AccessToken?: string | null = null
-  WorkDir?: string | null = null
+  WorkDir?: string |  null= '../output'
   FFmpegPath?: string | null = null
   UposHost?: string | null = null
   DelayPerPage?: string | null = null

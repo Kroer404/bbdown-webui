@@ -1,5 +1,5 @@
 {
-  "bbdownUrl": "http://127.0.0.1:23333",
+  "bbdownUrl": "http://127.0.0.1:12450",
   "bbdownMyOptions": {
     "MultiThread": true,
     "ForceHttp": true,

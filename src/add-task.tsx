@@ -153,7 +153,7 @@ export const AddTask = (props: AddTaskProps) => {
       <div className="task-submit-form">
         <FormGroup
           fill
-          helperText="请注意：BBDown服务器目前无下载队列，提交的所有任务会同时并行下载，一次提交过多任务可能导致下载失败"
+          helperText="请注意：BBDown服务器目前无下载队列，提交的所有任务会同时并行下载，一次提交过多任务可能导致失败"
           label="视频地址"
           labelFor="text-input"
           labelInfo={`(${validBiliUrlCount}个视频地址)`}
